@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590506173290.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CB51BF4E",
+    "lastKnownWriteTime" : 8389754706581218143,
+    "last_content_update" : 1590506173290,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B78E58A5",
+        "caption" : "donor_barack",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=donor_barack&cache_key=B78E58A5",
+        "displayedObservations" : 641490,
+        "environment" : "",
+        "expression" : "donor_barack",
+        "object" : "donor_barack",
+        "preview" : 0,
+        "totalObservations" : 641490,
+        "variables" : 15
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

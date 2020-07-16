@@ -1,0 +1,12 @@
+install.packages('caret')
+install.packages('dplyr')
+
+library(tidyr)
+
+donor_barack <- read.csv('contributions_2011-2016_Barack_Obama.csv')
+
+View(donor_barack)
+
+donor_barack_wide <- donor_barack %>% spread(key = ElectionCycle, value = TransactionAmount, fill = 0)
+
+View(donor_barack_wide)
